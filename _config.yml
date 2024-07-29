@@ -70,7 +70,7 @@ ga_domain: bluecat.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "nishuone"
+sidebar-about-description: "千万别当浅薄的人"
 sidebar-avatar: img/blue/home-me.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
